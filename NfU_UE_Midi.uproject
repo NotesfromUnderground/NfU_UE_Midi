@@ -146,6 +146,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "MIDIDevice",
+			"Enabled": true
+		},
+		{
 			"Name": "RemoteControlProtocolMIDI",
 			"Enabled": true
 		}
